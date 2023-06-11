@@ -72,7 +72,7 @@
 }
 
 .btn:hover {
-    background-color: #45a049;
+    background-color: lightblue;
 }
 
 @media screen and (max-width: 768px) {
@@ -80,9 +80,13 @@
         display: block;
     }
         .project-div {
+            padding:2%;
             display: flex;
-           
-            background-color: #f9f9f9;
+                flex-wrap: wrap;
+                flex-direction: column;
+                /* grid-template-columns: auto auto auto; */
+                column-gap: 25px;
+                background-color: #f9f9f9;
         }
 
 
