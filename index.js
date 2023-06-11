@@ -1,7 +1,7 @@
 const textElement = document.getElementById("changingText");
 const skills = [
   "Full Stack Web Developer",
-  "Web Desiner",
+  "Web Designer",
   "Microsoft Azure Fundamental Certified",
 ]; // Add more skills here if needed
 // let currentIndex = 0;
