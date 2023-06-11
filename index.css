@@ -79,6 +79,11 @@
     .project-card {
         display: block;
     }
+        .project-div {
+            display: flex;
+           
+            background-color: #f9f9f9;
+        }
 
 
 }
